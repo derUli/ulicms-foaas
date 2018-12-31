@@ -1,0 +1,12 @@
+{
+	"source" : "extend",
+	"id": "foaa",
+	"version": "2017.1.14",
+	"description": "FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.",
+	"categories": [
+		"developer",
+		"other"
+	],
+	"compatible_from": "2018.4",
+	"dependencies": []
+}

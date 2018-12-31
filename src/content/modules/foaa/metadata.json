@@ -1,0 +1,9 @@
+{
+	"embed" : false,
+	"objects" : {
+		"faas" : "vendor/autoload.php"
+	},
+	"version" : "2017.1.14",
+	"manufacturer_name" : "Kevin Laude",
+	"manufacturer_url" : "https://github.com/klaude/foaas-php"
+}
