@@ -1,0 +1,9 @@
+{
+	"version" : "2.0.0",
+	"embed" : false,
+	"objects" : {
+		"FoaaS" : "vendor/autoload.php"
+	},
+	"manufacturer_url" : "https://foaas.com/",
+	"manufacturer_name" : "Tom Dionysus"
+}
